@@ -1,137 +1,122 @@
 # 100 Python Tasks 🐍
-This repository contains 100 Python programming tasks designed to improve problem-solving skills from Beginner → Advanced level.
 
-The tasks gradually increase in difficulty and cover core programming concepts required for software development, data science, and AI engineering.
+This repository contains **100 Python programming tasks** designed to improve problem-solving skills from **Beginner → Advanced level**.
 
-📚 Task Levels
-🟢 Level 1 – Basics (1–20)
+The tasks gradually increase in difficulty and cover core programming concepts required for **software development, data science, and AI engineering**.
+
+---
+
+## 📚 Task Levels
+
+### 🟢 Level 1 – Basics (1–20)
 
 Variables, strings, conditionals, and loops.
 
 Examples:
 
-Temperature Converter
+* Temperature Converter
+* BMI Calculator
+* Palindrome Checker
+* Fibonacci Series
+* Prime Number Checker
 
-BMI Calculator
+---
 
-Palindrome Checker
-
-Fibonacci Series
-
-Prime Number Checker
-
-🔵 Level 2 – Data Structures (21–40)
+### 🔵 Level 2 – Data Structures (21–40)
 
 Practice using:
 
-Lists
-
-List Comprehensions
-
-Dictionaries
-
-Sets
+* Lists
+* List Comprehensions
+* Dictionaries
+* Sets
 
 Examples:
 
-List statistics
+* List statistics
+* Word frequency counter
+* Phone book system
+* Set operations
 
-Word frequency counter
+---
 
-Phone book system
-
-Set operations
-
-🟡 Level 3 – Functions (41–60)
+### 🟡 Level 3 – Functions (41–60)
 
 Focus on:
 
-Functions
+* Functions
+* Recursion
+* Lambda functions
+* Map / Filter / Reduce
+* Decorators
 
-Recursion
+---
 
-Lambda functions
-
-Map / Filter / Reduce
-
-Decorators
-
-🟠 Level 4 – File Handling (61–75)
+### 🟠 Level 4 – File Handling (61–75)
 
 Working with:
 
-Text files
-
-CSV files
-
-JSON files
+* Text files
+* CSV files
+* JSON files
 
 Examples:
 
-File reader
+* File reader
+* File merger
+* CSV to JSON converter
 
-File merger
+---
 
-CSV to JSON converter
-
-🔴 Level 5 – Mini Projects (76–90)
+### 🔴 Level 5 – Mini Projects (76–90)
 
 Examples:
 
-Rock Paper Scissors
+* Rock Paper Scissors
+* Tic Tac Toe
+* Quiz Game
+* Web Scraper
+* Weather App
 
-Tic Tac Toe
+---
 
-Quiz Game
-
-Web Scraper
-
-Weather App
-
-🟣 Level 6 – Advanced (91–100)
+### 🟣 Level 6 – Advanced (91–100)
 
 Topics:
 
-Object-Oriented Programming
-
-APIs
-
-Databases
-
-Networking
-
-CLI tools
+* Object-Oriented Programming
+* APIs
+* Databases
+* Networking
+* CLI tools
 
 Examples:
 
-Library Management System
+* Library Management System
+* ATM Simulator
+* Chat Application
+* Database Manager
+* File Encryption
 
-ATM Simulator
+---
 
-Chat Application
+## 🎯 Goal
 
-Database Manager
+To complete **100 Python tasks** and build strong programming fundamentals through consistent practice.
 
-File Encryption
+---
 
-🎯 Goal
+## 🚀 Progress
 
-To complete 100 Python tasks and build strong programming fundamentals through consistent practice.
+* [ ] Level 1 – Basics
+* [ ] Level 2 – Data Structures
+* [ ] Level 3 – Functions
+* [ ] Level 4 – File Handling
+* [ ] Level 5 – Mini Projects
+* [ ] Level 6 – Advanced
 
-🚀 Progress
+---
 
-Level 1 – Basics
+## 👨‍💻 Author
 
-Level 2 – Data Structures
-
-Level 3 – Functions
-
-Level 4 – File Handling
-
-Level 5 – Mini Projects
-
-Level 6 – Advanced
-
-👨‍💻 Author
-
-Omair Chaudhary
+**Omair Chaudhary**
